@@ -3,6 +3,14 @@
     "apps": [],
     "details": [
       {
+        "appIDs": ["CRNJGXXSNW.com.tnemotox.mochimonopocket"],
+        "components": [
+          {
+            "/": "/dl/checklist/*"
+          }
+        ]
+      },
+      {
         "appID": "CRNJGXXSNW.com.tnemotox.mochimonopocket",
         "paths": ["/dl/checklist/*"]
       }
