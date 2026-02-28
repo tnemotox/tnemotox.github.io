@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.nekmon.mochimonopocket",
+    "sha256_cert_fingerprints": [
+      "2F:53:D3:09:81:39:6B:DC:25:BF:78:56:F7:A9:38:60:FD:75:60:97:36:4F:24:CF:A7:00:B2:E0:2C:7A:7C:06"
+    ]
+  }
+}]
